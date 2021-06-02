@@ -3,7 +3,7 @@ package com.PBO;
 public class StringOperation {
 	public static void main(String[] args) {
 		String str1 = "Hello";
-		String str2 = "Farhan";
+		String str2 = "Ramdhan";
 		String str3 = "";
 		
 		str3 = str1.concat(" " + str2 + ", ").concat("how are you?");
